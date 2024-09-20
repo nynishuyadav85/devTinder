@@ -8,5 +8,5 @@ app.use('/test',(req, res) => {
 })
 
 app.listen(3000, () => {
-    console.log("App is running succesuflly on port 3000.....")
+    console.log("App is running succesuflly on port 3000......")
 })
